@@ -38,5 +38,6 @@ Saturn
 Subaru
 Suzuki
 Toyota
+Tesla
 Volkswagen
 Volvo
