@@ -1,3 +1,5 @@
+Acura
+Alfa Romeo
 Audi
 BMW
 Buick
@@ -5,8 +7,10 @@ Cadillac
 Chevrolet
 Chrysler
 Dodge
+FIAT
 Ferrari
 Ford
+Genesis
 GM
 GEM
 GMC
@@ -23,7 +27,9 @@ Land Rover
 Lexus
 Lincoln
 Lotus
+Maserati
 Mazda
+McLaren
 Mercedes-Benz
 Mercury
 Mitsubishi
@@ -32,9 +38,11 @@ Oldsmobile
 Peugeot
 Pontiac
 Porsche
+RAM
 Regal
 Saab
 Saturn
+Scion
 Subaru
 Suzuki
 Toyota
